@@ -1,1 +1,10 @@
+<<<<<<< HEAD
+test2
+
+login 기능 구현
+loggdadㅣ
+
+임재영이 ddddddddddddddd
+=======
 김두렬이 수정함
+>>>>>>> 534818abd6c51ee15e2424ab6ec35feb08fe9e1d
